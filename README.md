@@ -1,7 +1,7 @@
 # 3D-Modelling-Animation
 3D modelling a human using blender and animating the human to do sign language.
 Created a website to compare the animation I did with ASL official animation.
-Do check out the website : <a target = "blank">https://ashwanth-07.github.io/3D-Modelling-Animation/</a>
+Do check out the website : <a href="https://ashwanth-07.github.io/3D-Modelling-Animation/" target = "blank">3D-Modelling-Animation Website</a>
 
 ## Human Model:
 
