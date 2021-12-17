@@ -5,5 +5,5 @@ Do check out the website : https://ashwanth-07.github.io/3D-Modelling-Animation/
 
 ## Human Model:
 
-<img src = "https://github.com/ashwanth-07/3D-Modelling-Animation/blob/main/BlenderFiles/Human%20model.png" width="4rem"/>
-<img src = "https://github.com/ashwanth-07/3D-Modelling-Animation/blob/main/BlenderFiles/human_side.png"/>
+<p><img src = "https://github.com/ashwanth-07/3D-Modelling-Animation/blob/main/BlenderFiles/Human%20model.png" width="45%" height="600rem"/>
+<img src = "https://github.com/ashwanth-07/3D-Modelling-Animation/blob/main/BlenderFiles/human_side.png" width="45%" height="600rem"/></p>
